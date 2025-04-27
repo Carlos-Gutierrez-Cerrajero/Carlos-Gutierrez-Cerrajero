@@ -1,6 +1,6 @@
 ## About me
 <p id="About me">
-  Hi! I'm Carlos, it's nice to meet you (or, it's nice to have you read my profile, at any rate 😁).
+  Hi! I'm Carlos, it's nice to meet you (or, it's nice to have you here, at any rate 😁).
 </p>
 <p>
   If you are reading this, you might be interested in a bit of background (and if you aren't, don't worry, I'll be brief). I finished my BSc in Biotechnology in 2017 and my PhD in Biomedical Research in 2023, currently I'm working as a postdoctoral researcher focusing on diagnosis and treatment of epidermal differentiation disorders such as ichthyosis (for more information on what I do, check my <a href="https://www.researchgate.net/profile/Carlos-Gutierrez-Cerrajero">ResearchGate profile</a>).<br>
