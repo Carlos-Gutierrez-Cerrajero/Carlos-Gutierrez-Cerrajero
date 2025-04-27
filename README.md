@@ -9,7 +9,7 @@
 
 ## What to expect
 <p id="What to expect">
-  I mostly write in Python and I'm currently in the process of learning R (I also know a bit of HTML, CSS, and JavaScript; but I doubt I'll upload much, if anything, written in those languages). As for the actual projects, this is a directory of what is currently available:<br>
+  I mostly write in Python and I'm currently in the process of learning R (I also know a bit of HTML, CSS, and JavaScript; but I doubt I'll upload much, if anything, written in those languages). As for the actual projects, this is a directory of what is currently available (sorted into repository lists):<br>
   <ol>
     <li>
       <b>Bioinformatics: </b>Code that works with molecular biology data (either standard file formats or experiment results):
