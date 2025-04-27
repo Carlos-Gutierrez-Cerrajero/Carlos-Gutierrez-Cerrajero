@@ -18,7 +18,7 @@
       </ul>
     </li>
     <li>
-      <b>Tools: </b>Programs that carry out a simple function, I may or may not have used them to work with biological data, but they should be easy enough to adapt for other uses:
+      <b>Tools: </b>Programs that carry out a simple function, I may or may not have used them to work with biological data, but they should be easy enough to adapt for other uses either way:
       <ul>
         <li>Empty, for now</li>
       </ul>
