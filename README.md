@@ -4,7 +4,7 @@
 </p>
 <p>
   If you are reading this, you might be interested in a bit of background (and if you aren't, don't worry, I'll be brief). I finished my BSc in Biotechnology in 2017 and my PhD in Biomedical Research in 2023, currently I'm working as a postdoctoral researcher focusing on diagnosis and treatment of epidermal differentiation disorders such as ichthyosis (for more information on what I do, check my <a href="https://www.researchgate.net/profile/Carlos-Gutierrez-Cerrajero">ResearchGate profile</a>).<br>
-  At this point, you might rightfully be wondering what I'm doing on GitHub (i.e. what does this have to do with coding) and the answer is that while my formal training is almost exclusively molecular biology, I'm interested in bioinformatics, data analysis, and automating computer tasks. So I'm starting a collection of repositories to keep the code I write handy and, if it happens to help other people then even better
+  At this point, you might rightfully be wondering what I'm doing on GitHub (i.e. what does this have to do with coding) and the answer is that while my formal training is almost exclusively molecular biology, I'm interested in bioinformatics, data analysis, and automating computer tasks. So I'm starting a collection of repositories to keep the code I write handy and, if it happens to help other people then even better.
 </p>
 
 ## What to expect
