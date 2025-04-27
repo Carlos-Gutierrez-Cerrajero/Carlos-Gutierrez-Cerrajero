@@ -35,7 +35,7 @@
 ## Going forward
 <p id="Going forward">
   As you may have noticed, this is quite empty at the moment. The order of business will be to first clean and upload already-made programs that I have lying around on my computer (mostly bioinformatics and tools) and then keep uploading new programs I write for work and practice projects when I have the time and inclination to code them.<br>
-  <b>WARNING:</b> as you may have guessed from the "<a href="#About me">About me</a>" section, I am mostly self-taught (except for a couple introductory classes I took during my Bachelor's degree). In practice, this means that my code will most likely not be optimized or follow style or best practice guidelines. Feedback in this regard is appreciated within reason (for instance, I will not take into consideration recommendations to learn a different language just because code would be slightly faster, and I might not implement recommended changes if I don't have the time or skill to do so).<br>
+  <b>WARNING:</b> as you may have guessed from the <a href="#About me">About me</a> section, I am mostly self-taught (except for a couple introductory classes I took during my Bachelor's degree). In practice, this means that my code will most likely not be optimized or follow style or best practice guidelines. Feedback in this regard is appreciated within reason (for instance, I will not take into consideration recommendations to learn a different language just because code would be slightly faster, and I might not implement recommended changes if I don't have the time or skill to do so).<br>
   With that out of the way, make yourself comfortable, feel free to introduce yourself and enjoy!
 </p>
 
