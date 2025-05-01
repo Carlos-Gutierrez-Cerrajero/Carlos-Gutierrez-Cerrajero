@@ -14,7 +14,7 @@
     <li>
       <b>Bioinformatics: </b>Code that works with molecular biology data (either standard file formats or experiment results):
       <ul>
-        <li>Empty, for now</li>
+        <li><i><a href="https://github.com/Carlos-Gutierrez-Cerrajero/Gene-description-scrapper">Gene description scrapper</a>:</i> Returns a list of gene summaries from the NCBI database</li>
       </ul>
     </li>
     <li>
