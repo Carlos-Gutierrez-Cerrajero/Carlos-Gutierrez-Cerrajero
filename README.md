@@ -15,6 +15,7 @@
       <b>Bioinformatics: </b>Code that works with molecular biology data (either standard file formats or experiment results):
       <ul>
         <li><i><a href="https://github.com/Carlos-Gutierrez-Cerrajero/Gene-description-scrapper">Gene description scrapper</a>:</i> Returns a list of gene summaries from the NCBI database</li>
+        <li><i><a href="https://github.com/Carlos-Gutierrez-Cerrajero/Genotyping">Genotyping</a>:</i> Performs χ² statistical analysis on genotyping data</li>
       </ul>
     </li>
     <li>
