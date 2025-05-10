@@ -25,12 +25,6 @@
         <li><i><a href="https://github.com/Carlos-Gutierrez-Cerrajero/Mouse-wheel">Mouse wheel</a>:</i> A small program that simulates mouse wheel movement when pressing the chosen keys</li>
       </ul>
     </li>
-    <li>
-      <b>Practice projects: </b>My answer to a coding challenge found somewhere on the web:
-      <ul>
-        <li>Empty, for now</li>
-      </ul>
-    </li>
   </ol>
 </p>
 
